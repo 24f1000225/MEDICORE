@@ -1,1 +1,11 @@
-/.vscode
+node_modules/
+*package-lock.json
+*package.json
+.vscode/
+public/ 
+*vite.config.js
+frontend/src/assets/
+frontend/node_modules/axios
+*celerybeat-schedule.bak
+*celerybeat-schedule.dat
+*celerybeat-schedule.dir
